@@ -1,11 +1,11 @@
 {
   "main.css": "/appCalculadora/static/css/main.c76641d6.chunk.css",
-  "main.js": "/appCalculadora/static/js/main.63cbb343.chunk.js",
-  "main.js.map": "/appCalculadora/static/js/main.63cbb343.chunk.js.map",
+  "main.js": "/appCalculadora/static/js/main.20e5a800.chunk.js",
+  "main.js.map": "/appCalculadora/static/js/main.20e5a800.chunk.js.map",
   "static/js/1.69e0dab0.chunk.js": "/appCalculadora/static/js/1.69e0dab0.chunk.js",
   "static/js/1.69e0dab0.chunk.js.map": "/appCalculadora/static/js/1.69e0dab0.chunk.js.map",
-  "static/js/2.ddeca487.chunk.js": "/appCalculadora/static/js/2.ddeca487.chunk.js",
-  "static/js/2.ddeca487.chunk.js.map": "/appCalculadora/static/js/2.ddeca487.chunk.js.map",
+  "static/js/2.17953485.chunk.js": "/appCalculadora/static/js/2.17953485.chunk.js",
+  "static/js/2.17953485.chunk.js.map": "/appCalculadora/static/js/2.17953485.chunk.js.map",
   "runtime~main.js": "/appCalculadora/static/js/runtime~main.433645e8.js",
   "runtime~main.js.map": "/appCalculadora/static/js/runtime~main.433645e8.js.map",
   "static/media/img_san_yo.png": "/appCalculadora/static/media/img_san_yo.a8b4724a.png",
@@ -13,6 +13,6 @@
   "static/media/App.css": "/appCalculadora/static/media/formulas.2156721d.jpg",
   "static/css/main.c76641d6.chunk.css.map": "/appCalculadora/static/css/main.c76641d6.chunk.css.map",
   "index.html": "/appCalculadora/index.html",
-  "precache-manifest.430b2883e3a58f5f1752e86c42d8c072.js": "/appCalculadora/precache-manifest.430b2883e3a58f5f1752e86c42d8c072.js",
+  "precache-manifest.5dc680d14b014ced1ab260d6f88ef6f0.js": "/appCalculadora/precache-manifest.5dc680d14b014ced1ab260d6f88ef6f0.js",
   "service-worker.js": "/appCalculadora/service-worker.js"
 }
