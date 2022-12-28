@@ -1,11 +1,11 @@
 import React from "react";
 
-const Resultados = () =>{
+const Resultados = (props) =>{
 
     return(
         <div>
-            <div className="textoResultado"></div>
-            <div className="textoCalculo"></div>
+            <div id="textoResultado" className="textoResultado">{props.btnResultado}</div>
+            <div id="textoCalculo" className="textoCalculo">{props.btnResultadoTrack}</div>
         </div>
     )
 }
